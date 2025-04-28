@@ -1,7 +1,5 @@
 # Tower Builder
 
-*Laiba Ijaz (22L-7855)*
-
 ## Overview
 A 3D block stacking Android game where players have to tap to place a block on the tower, strategically keeping it balanced and thus preventing it from collapsing. Every block placed grants +10 points.
 
@@ -37,7 +35,4 @@ The only prefab used is Tower Block which is repeatedly spawned to be placed on 
 - **GamePlaying** : Contains current score and Replay button.
 
 - **GameOver** : Contains the game over screen and shows the final score for 3 seconds.
-
-### GitHub Repo:
-https://github.com/lai-jaz/tower-builder
 
